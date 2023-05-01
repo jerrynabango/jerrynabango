@@ -25,8 +25,8 @@ Manchester City fan.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jerrynabango&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-Talk is cheap.Show me the code.
+### ✍️ Jerry's Quote
+Talk is cheap.Show me the code and explain it to me as a young kid.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerrynabango&limit=5&theme=discord&combine_all_yearly_contributions=true)
