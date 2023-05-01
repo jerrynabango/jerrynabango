@@ -10,8 +10,7 @@
 Software Engineer passionate about databases.<br>
 Good holding midfielder⚽<br>
 Manchester City fan.<br>
-                    ![image](https://user-images.githubusercontent.com/62020588/235440858-80385d52-f6ea-46c2-b197-a9c3eb67fe1d.png)
-<br>Joker but serious when coding to avoid bugs 😂.<br><br><br><br><br><br>
+<br>Joker but serious when coding to avoid bugs 😂.<br><br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry Nabango) 
