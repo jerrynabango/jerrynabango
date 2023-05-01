@@ -10,9 +10,8 @@
 Software Engineer passionate about databases.<br>
 Good holding midfielder⚽<br>
 Manchester City fan.<br>
-![image](https://user-images.githubusercontent.com/62020588/235440858-80385d52-f6ea-46c2-b197-a9c3eb67fe1d.png)
+                    ![image](https://user-images.githubusercontent.com/62020588/235440858-80385d52-f6ea-46c2-b197-a9c3eb67fe1d.png)
 <br>Joker but serious when coding to avoid bugs 😂.<br><br><br><br><br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerry Nabango) 
@@ -28,7 +27,7 @@ Manchester City fan.<br>
 ![](https://github-profile-trophy.vercel.app/?username=jerrynabango&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+Talk is cheap.Show me the code.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerrynabango&limit=5&theme=discord&combine_all_yearly_contributions=true)
