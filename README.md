@@ -2,14 +2,15 @@
 
 
 - 🔭 I’m currently working on becoming a professional software engineer.
-- 🌱 Currently learning back-end development.
-- 👯 Always free and ready to collaborate with everyone that's how the tech world works.
+- 👨🏾‍💻 Currently learning back-end development.
+- 🤝🏼 Always free and ready to collaborate with everyone that's how the tech world works.
 - 🤔 Technology evolves everytime, am free for advices or ideas.
 - ⚡ Fun fact: You are either the fastest, smartest or you cheat no other way in life.
 # 💫 About Me:
 Software Engineer passionate about databases.<br>
 Good holding midfielder⚽<br>
-Manchester City fan.![image](https://user-images.githubusercontent.com/62020588/235440858-80385d52-f6ea-46c2-b197-a9c3eb67fe1d.png)
+Manchester City fan.
+![image](https://user-images.githubusercontent.com/62020588/235440858-80385d52-f6ea-46c2-b197-a9c3eb67fe1d.png)
 <br>Joker but serious when coding to avoid bugs 😂.<br><br><br><br><br><br>
 
 
