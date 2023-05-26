@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on becoming a professional software engineer.
-- 👨🏾‍💻 Currently learning back-end development.
+- 👨🏾‍💻 Eager about back-end development.
 - 🤝🏼 Always free and ready to collaborate with everyone that's how the tech world works.
 - 🤔 Technology evolves everytime, am free for advices or ideas.
 - ⚡ Fun fact: You are either the fastest, smartest or you cheat no other way in life.
