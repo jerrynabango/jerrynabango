@@ -1,4 +1,4 @@
-### echo "Jambo" > pal 👋
+### console.log("Jambo");👋
 
 
 - 🔭 I’m currently working on becoming a professional software engineer.
