@@ -1,16 +1,16 @@
 ### console.log("Jambo");👋
 
 
-- 🔭 I’m currently working on becoming a professional software engineer.
+- 🔭 Software Engineer.
 - 👨🏾‍💻 Eager about back-end development.
 - 🤝🏼 Always free and ready to collaborate with everyone that's how the tech world works.
-- 🤔 Technology evolves everytime, am free for advices or ideas.
+- 🤔 Technology evolves everytime, be ready to learn new things.
 - ⚡ Fun fact: You are either the fastest, smartest or you cheat no other way in life.
 # 💁🏿‍♂️ About Me:
 Software Engineer passionate about databases.<br>
 Good holding midfielder⚽<br>
 Manchester City fan.<br>
-<br>Joker but serious when coding to avoid bugs 😂.<br><br><br><br>
+<br>I love bugs 😂.<br><br><br><br>
 
 ## 🌐 Socials:
 !!!
@@ -25,8 +25,8 @@ Manchester City fan.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jerrynabango&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Jerry's Quote
-Talk is cheap.Show me the code and explain it to me as a young kid.
+### ✍️ Martin Fowler Quote
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerrynabango&limit=5&theme=discord&combine_all_yearly_contributions=true)
