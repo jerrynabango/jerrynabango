@@ -1,5 +1,5 @@
 <h1 align="center">console.log("Hi") 👋, I'm Jerry Nabango</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated back-end engineer hailing from Kenya with a fervor for crafting robust and efficient server-side solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrynabango&label=Profile%20views&color=0e75b6&style=flat" alt="jerrynabango" /> </p>
 
